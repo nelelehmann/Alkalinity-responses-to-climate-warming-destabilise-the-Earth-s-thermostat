@@ -5,3 +5,5 @@ by Nele Lehmann, Tobias Stacke, Sebastian Lehmann, Hugues Lantuit, John Gosse, C
 
 
 The data set used in this R script will be accessible at PANGAEA at https://doi.pangaea.de/10.1594/PANGAEA.940522 and uploaded here as a csv-file once the manuscript has been accepted for publication.
+
+The script was built with the R version 4.2.2.
